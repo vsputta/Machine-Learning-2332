@@ -1,6 +1,6 @@
-#Predicting Cardiovascular Disease (CVD) Risk Using Machine Learning
+Predicting Cardiovascular Disease (CVD) Risk Using Machine Learning
 
-#Overview
+Overview
 This project aims to develop a machine learning model to predict cardiovascular disease (CVD) risk by incorporating both traditional medical factors (e.g., age, hypertension, smoking status) and socio-economic/environmental indicators (e.g., income, residence type). The goal is to improve predictive accuracy and provide deeper insights into CVD risk factors, especially those often overlooked in traditional models.
 
 Problem Statement
@@ -31,8 +31,12 @@ Next Steps
 Feature Engineering: Incorporate new variables such as interaction terms and domain-specific transformations to improve model accuracy.
 Data Augmentation: Integrate additional socio-economic and environmental data to enrich the feature set.
 Collaborative Ethical Framework: Collaborate with healthcare professionals to ensure models are clinically relevant and ethically sound, considering the biases in socio-economic variables.
+
+
 Contributors
 Varun Putta
 Zhiyi Ying
 Hang Lei
+
+
 For more details and the code, refer to the project files in this repository.
